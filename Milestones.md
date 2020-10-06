@@ -1,4 +1,4 @@
-## Milestones:
+# Milestones:
 | Version # |                                                                        Description                                                                        |     Start Date    |      End Date     |      Length     |
 |:---------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------:|:-----------------:|:---------------:|
 |     1     | Basic sign in/login page   Create/Implement DB and authentication   Create/Implement Newsfeed   Create/Implement Homepage   Create/Implement Profile page | January 11, 2021  | January 22, 2021  |  2 weeks total  |
