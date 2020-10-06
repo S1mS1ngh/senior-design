@@ -1,0 +1,8 @@
+## Milestones:
+| Version # |                                                                        Description                                                                        |     Start Date    |      End Date     |      Length     |
+|:---------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------:|:-----------------:|:---------------:|
+|     1     | Basic sign in/login page   Create/Implement DB and authentication   Create/Implement Newsfeed   Create/Implement Homepage   Create/Implement Profile page | January 11, 2021  | January 22, 2021  |  2 weeks total  |
+|     2     | Implement Calendar    Implement real time messaging   Implement notecards                                                                                 | January 23, 2021  | February 16, 2021 | 3.5 weeks total |
+|     3     | Bare minimum working product   All features able to connect to DB   Test writing for features/ create new features if needed (i.e. video streaming)       | February 17, 2021 | March 12, 2021    | 3.5 weeks total |
+|     4     | Stretch goals    - Streaming    - Multi-person notes taking    - Kahoot   More testing   Continue adding features that may be needed                      | March 13, 2021    | March 19, 2021    |   1 week total  |
+|     5     | Fine tuning all features                                                                                                                                  | March 20, 2021    | March 26, 2021    |   1 week total  |
