@@ -27,6 +27,10 @@ assignments, etc. The platform will feature a homepage which will have all the c
 main page. Each classroom/feature will have its own respective page for the best user experience. With all of these 
 pages and features we hope to create a positive learning community for students from anywhere in the world.
 
+#### [Presentation Video](https://mailuc-my.sharepoint.com/:p:/g/personal/singh2s7_mail_uc_edu/ER_0zwBWXCxMilSoEK59W2gBVWofK4YslEv9O-C_Qhla2A?e=TUzhzT)
+
+#### [Presentation Slides](https://web.microsoftstream.com/video/5c14ce26-05b0-4ad7-a1c6-372fcf818661)
+
 ## Table of Contents
 
 ### User Stories and Design Diagrams
@@ -35,7 +39,7 @@ pages and features we hope to create a positive learning community for students 
     * [Level 0](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Design_Diagrams/d0.png)
     * [Level 1](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Design_Diagrams/D1.png)
     * [Level 2](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Design_Diagrams/D2.png)
-* [Diagram Descriptions]()
+* [Diagram Descriptions](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Design_Diagrams/Diagram-Descriptions.md)
 
 ### Project Tasks and Timeline
 * [Task List](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Tasklist.md)
@@ -43,8 +47,6 @@ pages and features we hope to create a positive learning community for students 
 * [Effort Matrix](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Effort-Matrix.pdf)
 
 ### [ABET Concerns Essay](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Major-Constraints.md)
-
-### [Powerpoint Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/singh2s7_mail_uc_edu/ER_0zwBWXCxMilSoEK59W2gBVWofK4YslEv9O-C_Qhla2A?e=TUzhzT)
 
 ### [Self-Assessment Essays](https://github.com/S1mS1ngh/senior-design-fall-2020/tree/master/Individual_Capstone_Assessment)
 
@@ -54,4 +56,4 @@ pages and features we hope to create a positive learning community for students 
 
 ### Appendix
 * [Resources]()
-* [Team Hours]()
+    * [Team Hours]()
