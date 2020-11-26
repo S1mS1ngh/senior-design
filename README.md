@@ -52,8 +52,8 @@ pages and features we hope to create a positive learning community for students 
 
 ### [Professional Biographies](https://github.com/S1mS1ngh/senior-design-fall-2020/tree/master/Professional_Bio)
 
-### [Budget]()
+### [Budget](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Resources/Budget.md)
 
 ### Appendix
-* [Resources]()
-    * [Team Hours]()
+* [Resources](https://github.com/S1mS1ngh/senior-design-fall-2020/tree/master/Resources)
+    * [Team Hours](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Resources/Team-Hours.md)
