@@ -46,7 +46,7 @@ pages and features we hope to create a positive learning community for students 
 * [Timeline](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Timeline.md)
 * [Effort Matrix](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Effort-Matrix.pdf)
 
-### [ABET Concerns Essay](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Major-Constraints.md)
+### [ABET Concerns](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Major-Constraints.md)
 
 ### [Self-Assessment Essays](https://github.com/S1mS1ngh/senior-design-fall-2020/tree/master/Individual_Capstone_Assessment)
 
