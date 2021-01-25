@@ -126,3 +126,47 @@ and stores proper information
 7. Black box
 8. Functional
 9. Integration
+
+Chat Backend Send Channel Message Test
+1. Send Channel Message Test
+2. To test chat feature API endpoint that allows users to send message into current chat channel
+3. The test will use test client to send JSON message with authorization token to the endpoints of the chat backend
+4. Auth Token, User chat name, message, timestamp
+5. Return original message to sender and emit message event to all other connected clients
+6. No message displayed
+7. Whitebox
+8. Functional
+9. Unit
+
+### Chat Backend Send Private Message Test
+1. Send Private Message Test
+2. To test private chat feature API endpoint that allows users to send private message to other users
+3. The test will use test client to send JSON message with authorization token to the endpoints of the chat backend and then server will forward the message to other user.
+4. Auth Token, User chat name, message, timestamp
+5. Return original message and emit send message event to targeted client
+6. Notifying user that message error
+7. Whitebox
+8. Functional
+9. Unit
+
+### Chat Backend Create New Channel Test
+1. Create New Channel Test
+2. To test chat feature of creating a new channel using backend API endpoints
+3. The test will use test client to send a JSON request to server for establishing a new chatroom through SocketIO
+4. Auth Token, User Account information (ID, Name, etc)
+5. Return to the client a room ID for the connection and display chat channel on the frontend
+6. Return JSON error message that is interpreted on the frontend as server error
+7. Blackbox
+8. Functional
+9. Unit
+
+### Chat Backend Add New User to Channel Test
+1.  Add New User to Channel Test
+2. To test chat feature of adding a new user to the channel using backend API endpoints
+3. The test will use a test client to send a JSON request to the server containing ID of user that current user wants to invite to the channel
+4. Auth Token, User Account information, Targeted user ID
+5. Send a request from the server to another user to join in the channel, if accepted, establish a new SocketIO connection to the user and display on the frontend
+6. Return JSON error message that is interpreted on the frontend as server error
+7. Blackbox
+8. Functional
+9. Unit
