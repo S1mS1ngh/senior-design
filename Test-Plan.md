@@ -176,6 +176,50 @@ and stores proper information
 8. Functional
 9. Unit
 
+### 15. Chat Create New
+1. Create New Chat
+2. To test if creating a new chat functionality works
+3. Will test if clicking the Create New Chat button will create a new chat with someone on the front end and in a database
+4. (Create New Chat Button)
+5. A new chat will be created and able to be interacted with
+6. Normal
+7. Blackbox
+8. Functional
+9. Integration
+
+### 16. Chat Select
+1. Chat Selection
+2. To test the functionality of the chat
+3. Will test if clicking on an individual chat will will open up the corresponding chat with that person
+4. Select chat
+5. The corresponding chat with that person will open and be displayed
+6. Normal
+7. Blackbox
+8. Functional
+9. Integration
+
+### 17. Chat Front End Send Message
+1. Chat Send Message
+2. To test if a message can be sent
+3. Will test if the sent message will be posted in the Chat
+4. Type message, (Send Message Button)
+5. The message box will be emptied and the message will appear in the Chat
+6. Normal
+7. Blackbox
+8. Functional
+9. Unit
+
+### 18. Chat Front End Receive Message
+1. Chat Receive Message
+2. To test if a message can be received
+3. Will test if the received message will be posted in the chat
+4. Type message, (Send Message Button)
+5. The message will be received by the recipient
+6. Normal
+7. Blackbox
+8. Functional
+9. Unit
+
 |   | Normal/Abnormal | Blackbox/White Box | Functional/Performance | Unit/Integration|
 |---|---------------- |------------------- | ---------------------- |-----------------|
 |1  | Normal          | Blackbox           | Functional             | Integration     |
@@ -192,3 +236,7 @@ and stores proper information
 |12 | Normal          | Whitebox           | Functional             | Unit            |
 |13 | Normal          | Blackbox           | Functional             | Unit            |
 |14 | Normal          | Blackbox           | Functional             | Unit            |
+|15 | Normal          | Blackbox           | Functional             | Integration     |
+|16 | Normal          | Blackbox           | Functional             | Integration     |
+|17 | Normal          | Blackbox           | Functional             | Unit            |
+|18 | Normal          | Blackbox           | Functional             | Unit            |
