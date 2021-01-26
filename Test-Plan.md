@@ -176,18 +176,19 @@ and stores proper information
 8. Functional
 9. Unit
 
-| | Normal/Abnormal | Blackbox/White Box | Functional/Performance | Unit/Integration|
-|1| Normal          | Blackbox           | Functional             | Integration     |
-|2| Normal          | Blackbox           | Functional             | Integration     |
-|3| Normal          | Blackbox           | Functional             | Integration     |
-|4| Normal          | Blackbox           | Functional             | Integration     |
-|5| Normal          | Blackbox           | Functional             | Integration     |
-|6| Normal          | Whitebox           | Functional             | Unit            |
-|7| Normal          | Whitebox           | Functional             | Integration     |
-|8| Normal          | Blackbox           | Functional             | Integration     |
-|9| Normal          | Both               | Functional             | Integration     |
-|10| Normal         | Blackbox           | Functional             | Integration     |
-|11| Normal         | Whitebox           | Functional             | Unit            |
-|12| Normal         | Whitebox           | Functional             | Unit            |
-|13| Normal         | Blackbox           | Functional             | Unit            |
-|14| Normal         | Blackbox           | Functional             | Unit            |
+|   | Normal/Abnormal | Blackbox/White Box | Functional/Performance | Unit/Integration|
+|---|---------------- |------------------- | ---------------------- |-----------------|
+|1  | Normal          | Blackbox           | Functional             | Integration     |
+|2  | Normal          | Blackbox           | Functional             | Integration     |
+|3  | Normal          | Blackbox           | Functional             | Integration     |
+|4  | Normal          | Blackbox           | Functional             | Integration     |
+|5  | Normal          | Blackbox           | Functional             | Integration     |
+|6  | Normal          | Whitebox           | Functional             | Unit            |
+|7  | Normal          | Whitebox           | Functional             | Integration     |
+|8  | Normal          | Blackbox           | Functional             | Integration     |
+|9  | Normal          | Both               | Functional             | Integration     |
+|10 | Normal          | Blackbox           | Functional             | Integration     |
+|11 | Normal          | Whitebox           | Functional             | Unit            |
+|12 | Normal          | Whitebox           | Functional             | Unit            |
+|13 | Normal          | Blackbox           | Functional             | Unit            |
+|14 | Normal          | Blackbox           | Functional             | Unit            |
