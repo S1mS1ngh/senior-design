@@ -1,5 +1,14 @@
 # User Documentation and Manual
 
+![Home Page](Homepage.png "Home Page")
+
+Cincy study is a platform that provides students the communication they need when being remote.
+
+Features:
+- Messaging (1:1 and Group)
+- Communities
+- Matching
+
 ## Getting Started
 What is Cincy Study?
 
