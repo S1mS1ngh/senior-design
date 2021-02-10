@@ -47,8 +47,14 @@ Cincy Study offers you some possible channels of your choice of classes that you
 ![Sign Up 4](img/Sign-up-4.png "Sign Up 4")
 
 ## Create new chat
+![Chat Page](img/Chat-Page.png "Chat Page")
+The Chat Page will allow you to reach out and communicate directly to another person signed up through Cincy Study. To start a chat with someone, all you have to do is hit the "Create New Chat" button and type the name of someone you would like to communicate with. Then type your message and hit send! Once you have sent/received some messages, you will be able to select different chats from different people by just clicking on the chat itself.
+
 
 ## Create new group
+![Groups Page](img/Groups-Page.png "Groups Page")
+The Groups Page will allow you to communicate with more than one person in a more broad sense. The Group Page will act as a kind of forum, where you can chat with a multitude of people instead of just one person. Once you are in more than one group, you will just click on the different groups in order to look at other group posts, create a group post, or interact with other group posts. To create a new group, all you need to do is click the "Create New Group" button and follow the steps.
+
 
 ## FAQ
 ### Am I able to edit my profile?
