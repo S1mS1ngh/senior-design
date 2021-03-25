@@ -1,4 +1,4 @@
-# Cincy Study
+# Bearcat Circle
 
 #### Team members
 * Nathan Berning - Computer Science (berninnt@mail.uc.edu)
@@ -13,23 +13,23 @@ Yizong Cheng (chengy@ucmail.uc.edu)
 Online Student Learning Community
 
 #### Abstract
-Our project aims to improve student engagement and interactions virtually and aid with remote learning. Since the start
- of the pandemic, classes have been significantly less interactive, which can make it more difficult for students to 
- learn and succeed. It can also be hard for students to find others to work with. To tackle this problem, we’re 
- creating an easily accessible online platform that combines the functionality of multiple student tools for learning 
- and communication. Our app will help students meet others, study for their classes and collaborate with other 
- students while also providing incentive for students.
+Bearcat Circle is a Web application that aims to simulate the in-person learning experience and aid with remote 
+learning. The application combines existing communication software all into one easy-to-use package. Students can post 
+discussions, chat with other students and much more. Bearcat Circle makes it easy for students to explore and branch 
+out of their existing circle.
 
 #### Description
 The Cincy Study platform uses web frameworks to create a website that allows for improved communication in a remote 
-environment. The platform uses a login page along with separate pages for specific features like groupchats, class 
-assignments, etc. The platform will feature a homepage which will have all the core components of the platform on one 
+environment. The platform uses a login page along with separate pages for specific features like groupchats, classes, 
+etc. The platform will feature a homepage which will have all the core components of the platform on one 
 main page. Each classroom/feature will have its own respective page for the best user experience. With all of these 
 pages and features we hope to create a positive learning community for students from anywhere in the world.
 
-#### [Presentation Video](https://mailuc-my.sharepoint.com/:p:/g/personal/singh2s7_mail_uc_edu/ER_0zwBWXCxMilSoEK59W2gBVWofK4YslEv9O-C_Qhla2A?e=TUzhzT)
+#### [Project Video](https://www.youtube.com/watch?v=iaMhk0MNMaY)
 
-#### [Presentation Slides](https://web.microsoftstream.com/video/5c14ce26-05b0-4ad7-a1c6-372fcf818661)
+#### [Project Slides](https://mailuc-my.sharepoint.com/:p:/g/personal/singh2s7_mail_uc_edu/EV661Rpdl2JMjfhcG8rvtCgBSVnb7jVXbK0Uxi4Cccd_lg?e=rqJm1A)
+
+#### [Project Poster](https://mailuc-my.sharepoint.com/:p:/g/personal/singh2s7_mail_uc_edu/EV661Rpdl2JMjfhcG8rvtCgBSVnb7jVXbK0Uxi4Cccd_lg?e=rqJm1A)
 
 ## Table of Contents
 
