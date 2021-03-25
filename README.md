@@ -29,7 +29,7 @@ pages and features we hope to create a positive learning community for students 
 
 #### [Project Slides](https://mailuc-my.sharepoint.com/:p:/g/personal/singh2s7_mail_uc_edu/EV661Rpdl2JMjfhcG8rvtCgBSVnb7jVXbK0Uxi4Cccd_lg?e=rqJm1A)
 
-#### [Project Poster](https://mailuc-my.sharepoint.com/:p:/g/personal/singh2s7_mail_uc_edu/EV661Rpdl2JMjfhcG8rvtCgBSVnb7jVXbK0Uxi4Cccd_lg?e=rqJm1A)
+#### [Project Poster](https://github.com/S1mS1ngh/senior-design/blob/master/Final_Materials/BearcatCirclePoster.pdf)
 
 ## Table of Contents
 
