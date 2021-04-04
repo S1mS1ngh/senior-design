@@ -43,21 +43,19 @@ pages and features we hope to create a positive learning community for students 
     * [Ryan Gruss](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Initial/IndividualCapstoneAssessment_RyanGruss.md)
     * [Simranjit Singh](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Initial/Individual_Assessment_SimSingh.md)
     * [Giang Ta](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Initial/Individual_Assessment_GiangTa.md)
-* [Final Self-Assessments]
+* [Final Self-Assessments](https://github.com/S1mS1ngh/senior-design/tree/master/Individual_Capstone_Assessment/Final)
     * [Nathan Berning]
     * [Ryan Gruss]
     * [Simranjit Singh]
     * [Giang Ta]
 
-#### [Summary of Hours and Justification (Todo)](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Resources/Team-Hours.md)
+#### [Summary of Hours and Justification (Todo)](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Resources/Team_Hours)
 * [Nathan Berning]
 * [Ryan Gruss]
 * [Simranjit Singh]
 * [Giang Ta]
 
 ### Appendix
-#### Topic Area
-Online Student Learning Community
 
 ### User Stories and Design Diagrams
 * [User Stories](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/User_Stories.md)
