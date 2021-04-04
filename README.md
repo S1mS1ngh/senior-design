@@ -18,7 +18,7 @@ discussions, chat with other students and much more. Bearcat Circle makes it eas
 out of their existing circle.
 
 #### Description
-The Cincy Study platform uses web frameworks to create a website that allows for improved communication in a remote 
+The Bearcat Circle platform uses web frameworks to create a website that allows for improved communication in a remote 
 environment. The platform uses a login page along with separate pages for specific features like groupchats, classes, 
 etc. The platform will feature a homepage which will have all the core components of the platform on one 
 main page. Each classroom/feature will have its own respective page for the best user experience. With all of these 
@@ -46,13 +46,13 @@ pages and features we hope to create a positive learning community for students 
 * [Final Self-Assessments](https://github.com/S1mS1ngh/senior-design/tree/master/Individual_Capstone_Assessment/Final)
     * [Nathan Berning]
     * [Ryan Gruss]
-    * [Simranjit Singh]
+    * [Simranjit Singh](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Final/Individual_Assessment_SimSingh.md)
     * [Giang Ta]
 
 #### [Summary of Hours and Justification (Todo)](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Resources/Team_Hours)
 * [Nathan Berning]
 * [Ryan Gruss]
-* [Simranjit Singh]
+* [Simranjit Singh](https://github.com/S1mS1ngh/senior-design/blob/master/Resources/Team_Hours/SimSinghHours.md)
 * [Giang Ta]
 
 ### Appendix
