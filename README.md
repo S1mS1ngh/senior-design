@@ -11,6 +11,12 @@ Yizong Cheng (chengy@ucmail.uc.edu)
 
 ## Table of Contents
 
+#### Abstract
+Bearcat Circle is a Web application that aims to simulate the in-person learning experience and aid with remote 
+learning. The application combines existing communication software all into one easy-to-use package. Students can post 
+discussions, chat with other students and much more. Bearcat Circle makes it easy for students to explore and branch 
+out of their existing circle.
+
 #### Description
 The Cincy Study platform uses web frameworks to create a website that allows for improved communication in a remote 
 environment. The platform uses a login page along with separate pages for specific features like groupchats, classes, 
@@ -32,11 +38,11 @@ pages and features we hope to create a positive learning community for students 
 #### [Project Poster](https://github.com/S1mS1ngh/senior-design/blob/master/Final_Materials/BearcatCirclePoster.pdf)
 
 #### Assessments (Todo)
-* [Initial Self-Assessments](https://github.com/S1mS1ngh/senior-design-fall-2020/tree/master/Individual_Capstone_Assessment)
-    * [Nathan Berning]
-    * [Ryan Gruss]
-    * [Simranjit Singh]
-    * [Giang Ta]
+* [Initial Self-Assessments](https://github.com/S1mS1ngh/senior-design/tree/master/Individual_Capstone_Assessment/Initial)
+    * [Nathan Berning](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Initial/Individual_Assessment_NathanBerning.md)
+    * [Ryan Gruss](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Initial/IndividualCapstoneAssessment_RyanGruss.md)
+    * [Simranjit Singh](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Initial/Individual_Assessment_SimSingh.md)
+    * [Giang Ta](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Initial/Individual_Assessment_GiangTa.md)
 * [Final Self-Assessments]
     * [Nathan Berning]
     * [Ryan Gruss]
@@ -49,14 +55,9 @@ pages and features we hope to create a positive learning community for students 
 * [Simranjit Singh]
 * [Giang Ta]
 
+### Appendix
 #### Topic Area
 Online Student Learning Community
-
-#### Abstract
-Bearcat Circle is a Web application that aims to simulate the in-person learning experience and aid with remote 
-learning. The application combines existing communication software all into one easy-to-use package. Students can post 
-discussions, chat with other students and much more. Bearcat Circle makes it easy for students to explore and branch 
-out of their existing circle.
 
 ### User Stories and Design Diagrams
 * [User Stories](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/User_Stories.md)
@@ -75,5 +76,4 @@ out of their existing circle.
 
 ### [Professional Biographies](https://github.com/S1mS1ngh/senior-design-fall-2020/tree/master/Professional_Bio)
 
-### Appendix
 * [Resources](https://github.com/S1mS1ngh/senior-design-fall-2020/tree/master/Resources)
