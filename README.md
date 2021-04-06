@@ -1,5 +1,7 @@
 # Bearcat Circle
 
+[Project Repository Link](https://github.com/S1mS1ngh/bearcat-circle)
+
 #### Team members
 * Nathan Berning - Computer Science (berninnt@mail.uc.edu)
 * Ryan Gruss - Computer Science (grussra@mail.uc.edu)

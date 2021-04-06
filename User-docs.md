@@ -2,39 +2,31 @@
 
 ![Home Page](Resources/img/Homepage.png "Home Page")
 
-Cincy study is a platform that provides students the communication they need when being remote.
+Bearcat Circle is a platform that provides students the communication they need when being remote.
 
 Features:
-- Messaging (1:1 and Group)
 - Communities
-- Matching
+- Forum
+- Messaging
 
 ## Getting Started
 What is Cincy Study?
 
-Cincy study aims to improve student engagement and interactions virtually and aid with remote learning. Since the start
-of the pandemic, classes have been significantly less interactive, which can make it more difficult for students to 
-learn and succeed. It can also be hard for students to find others to work with. To tackle this problem, we’re 
-creating an easily accessible online platform that combines the functionality of multiple student tools for learning 
-and communication. Our app will help students meet others, study for their classes and collaborate with other 
-students while also providing incentive for students.
-
-How to access: 
-
-Accessing Cincy Study is easy, simply go to http://cincystudy.com
-
-Continue through the rest of the User Docs to get a walk-through of the platform.
+Bearcat Circle is a Web application that aims to simulate the in-person learning experience and aid with remote 
+learning. The application combines existing communication software all into one easy-to-use package. Students can post 
+discussions, chat with other students and much more. Bearcat Circle makes it easy for students to explore and branch 
+out of their existing circle.
 
 ## Logging in
-As your browser reaches the domain of Cincy Study, you will be brought up to the login interface.
+As your browser reaches the domain of Bearcat Circle, you will be brought up to the login interface.
 ![Sign In](Resources/img/Login.png "Sign In")
 
-This is where you will enter your credential if you have a UC account that has been registered in our system. If successful, the app will redirect you back to the app main page for further interaction.
+This is where you will enter your credential if you have a UC account that has been registered in our system. If successful, the app will redirect you back to the home page for further interaction.
 
 If you have not registered an account with us, you may click "Register an account" option below the box in order to create an account.
 
 ## Signing up
-Upon registering, Cincy Study will ask for your full name and UC 6+2 account to make sure that you're a student attending UC.
+Upon registering, you will enter your full name and UC 6+2 account to make sure that you're a student attending UC.
 ![Sign Up 1](Resources/img/Sign-up.png "Sign Up 1")
 
 You will have to declare your major and expected graduation date.
