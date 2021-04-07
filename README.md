@@ -30,8 +30,8 @@ pages and features we hope to create a positive learning community for students 
 ![Homepage Navigation](Resources/img/Homepage_navigation.png "Homepage Navigation")
 
 
-The App is dividing into 4 main pages: Home, Chat, Groups, and Explore. These pages lead to more specific pages in the 
-app and will be shown in the user flow.
+The App is divided into 4 main pages: Home, Chat, Groups, and Explore. These pages lead to more specific pages in the 
+app and are shown in the user flow.
 
 
 ![User Flow Diagram](Resources/img/user_flow.png "User Flow")
