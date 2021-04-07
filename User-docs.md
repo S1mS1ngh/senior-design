@@ -65,18 +65,17 @@ In order to participate in a discussion made by you or others on the platform, y
 
 ## FAQ
 ### Am I able to edit my profile?
-Your profile, mainly name and photo, will be pulled from the information linked to your UC 6 + 2 credentials. This is to prevent students from setting inappropriate
-names and images on their profile.
+We currently don't support editing profiles after signup.
 
 ### Is there a limit to the number of groups I can create or join?
 Nope, your able to be a part of as many groups as you like! You can even create groups with students outside of your major!
 
-### Is there a limit to the number of forums I can create?
+### Is there a limit to the number of forum posts I can create?
 Again nope, create as many as you want!
 
-### What if I do not have a UC account yet?
-You will have to wait until your UC account is created before signing up for Bearcat Circle.
+### What if I do not have an account yet?
+You will have to wait until your account is created before accessing Bearcat Circle.
 
-### Is there an APP for Bearcat Circle?
-Currently there is no APP for Bearcat Circle.
+### Is there an APP or Mobile version for Bearcat Circle?
+Currently there is no mobile compatibility for Bearcat Circle.
 
