@@ -10,7 +10,7 @@ Features:
 - Messaging
 
 ## Getting Started
-What is Cincy Study?
+What is Bearcat Circle?
 
 Bearcat Circle is a Web application that aims to simulate the in-person learning experience and aid with remote 
 learning. The application combines existing communication software all into one easy-to-use package. Students can post 
@@ -35,12 +35,12 @@ You will have to declare your major and expected graduation date.
 This is optional but you will have to state classes that you're currently taking in the semester in order for better recommendation of related channels of your interest.
 ![Sign Up 3](Resources/img/Sign-up-2.png "Sign Up 3")
 
-Cincy Study offers you some possible channels of your choice of classes that you might be interested and you are good to go with your new account.
+Bearcat Circle offers you some possible channels of your choice of classes that you might be interested and you are good to go with your new account.
 ![Sign Up 4](Resources/img/Sign-up-4.png "Sign Up 4")
 
 ## Create new chat
 ![Chat Page](Resources/img/Chat-Page.png "Chat Page")
-The Chat Page will allow you to reach out and communicate directly to another person signed up through Cincy Study. To start a chat with someone, all you have to do is hit the "Create New Chat" button and type the name of someone you would like to communicate with. Then type your message and hit send! Once you have sent/received some messages, you will be able to select different chats from different people by just clicking on the chat itself.
+The Chat Page will allow you to reach out and communicate directly to another person signed up through Bearcat Circle. To start a chat with someone, all you have to do is hit the "Create New Chat" button and type the name of someone you would like to communicate with. Then type your message and hit send! Once you have sent/received some messages, you will be able to select different chats from different people by just clicking on the chat itself.
 
 
 ## Create new group
@@ -60,8 +60,8 @@ Nope, your able to be a part of as many groups as you like! You can even create 
 Again nope, create as many as you want!
 
 ### What if I do not have a UC account yet?
-You will have to wait until your UC account is created before signing up for Cincy Study.
+You will have to wait until your UC account is created before signing up for Bearcat Circle.
 
-### Is there an APP for Cincy Study?
-Currently there is no APP for Cincy Study.
+### Is there an APP for Bearcat Circle?
+Currently, there is no App for Bearcat Circle.
 

@@ -1,6 +1,6 @@
 # Bearcat Circle
 
-[Project Repository Link](https://github.com/S1mS1ngh/bearcat-circle)
+[Code Repository Link](https://github.com/S1mS1ngh/bearcat-circle)
 
 #### Team members
 * Nathan Berning - Computer Science (berninnt@mail.uc.edu)
@@ -26,8 +26,15 @@ etc. The platform will feature a homepage which will have all the core component
 main page. Each classroom/feature will have its own respective page for the best user experience. With all of these 
 pages and features we hope to create a positive learning community for students from anywhere in the world.
 
-#### User Interface Specification (Todo)
+#### User Interface Specification
+![Homepage Navigation](Resources/img/Homepage_navigation.png "Homepage Navigation")
 
+
+The App is dividing into 4 main pages: Home, Chat, Groups, and Explore. These pages lead to more specific pages in the 
+app and will be shown in the user flow.
+
+
+![User Flow Diagram](Resources/img/user_flow.png "User Flow")
 #### Test Plan and Results (Todo)
 
 #### User Manual (Todo - update userdocs)
