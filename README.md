@@ -35,9 +35,9 @@ app and are shown in the user flow.
 
 
 ![User Flow Diagram](Resources/img/user_flow.png "User Flow")
-#### [Test Plan and Results (Todo)](https://github.com/S1mS1ngh/senior-design/blob/master/Test-Plan.md)
+#### [Test Plan and Results](https://github.com/S1mS1ngh/senior-design/blob/master/Test-Plan.md)
 
-#### [User Manual (Todo)](https://github.com/S1mS1ngh/senior-design/blob/master/User-docs.md)
+#### [User Manual](https://github.com/S1mS1ngh/senior-design/blob/master/User-docs.md)
 
 #### Project Video
 [![Project Video](Resources/img/FinalPresentation.png "Project Video")](https://www.youtube.com/watch?v=iaMhk0MNMaY)
