@@ -9,9 +9,9 @@
 ## Design Tasks
 - Develop application architecture (What technology will be used, how many pages) - All Members
 - Design UML diagram for database - Backend
-- Develop designs for feature pages (Notecard, kahoot, chat, etc) - FrontEnd
+- Develop designs for feature pages (Notecard, forum, chat, etc) - FrontEnd
     - Notecard
-    - Forum
+    - Forum Posts
     - Chat
     - Groups
     - Explore Functionality
