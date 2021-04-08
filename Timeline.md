@@ -11,7 +11,7 @@
 |    8   | Design         | Develop designs for feature pages (Forum, Explore, Chat, Group etc)     - Forum     - Explore     - Chat     - Group | November 30, 2020 | January 31, 2021  | Frontend    |
 |    9   | Design         | Design UX/UI for feature pages and front page                                                                                                                                                | November 30, 2020 | January 31, 2021  | Backend     |                                        
 |   10   | Design | Finalize Research and Design | January 11, 2021  | January 25, 2021    | All    |
-|   11   | Implementation | Build Front end architecture and basic APIS                                                                                                              | January 25, 2021  | February 15, 2021    | All    |
+|   11   | Implementation | Build Front end architecture and basic APIS| January 25, 2021  | February 15, 2021    | All    |
 |   12   | Implementation | Develop Core Features and Create Containers                                                                                                              | February 15, 2021  | March 15, 2021    | All   |
 |   13   | Finalize Features and test funtionality                                                                                                         
 | March 15, 2021  | March 26, 2021    | All   |
