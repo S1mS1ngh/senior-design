@@ -11,10 +11,10 @@
 - Design UML diagram for database - Backend
 - Develop designs for feature pages (Notecard, kahoot, chat, etc) - FrontEnd
     - Notecard
-    - Calender
-    - Chat/Video Call
-    - Notes
-    - Practice activities
+    - Forum
+    - Chat
+    - Groups
+    - Explore Functionality
 - Design UX/UI for feature pages and front page - FrontEnd
 
 ## Implementation Tasks
