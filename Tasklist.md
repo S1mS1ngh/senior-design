@@ -3,7 +3,6 @@
 - Research implementations for Community Engagement
 - Investigate interactive virtual learning platforms
 - Research virtual communication tools and APIs
-- Investigate Community rewards
 - Learn tech stack
 
 ## Design Tasks
@@ -19,9 +18,9 @@
 
 ## Implementation Tasks
 - Implement Front End for front page/dashboard for admin/regular users - FrontEnd
-- Implement Front End for features and reward page - FrontEnd
+- Implement Front End for Chat, Forum, Group, Explore pages - FrontEnd
 - Create Appropriate Backend function requests - Backend
-- Setup database for both admin/professor/user - Backend
+- Setup database for both admin/user - Backend
 
 Team member Roles:
 Sim - FrontEnd
