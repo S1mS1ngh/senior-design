@@ -13,8 +13,7 @@ The diagram is in the perspective of any user and is not broken down into multip
 in the diagrams represent the flow of the user throughout the system. Each box is a specific portion of the project and 
 will be expanded upon in the next level.
 ## Level 2
-Diagram 2 further introduces complexity into the system. The diagram now provides a user flow for multiple users with 
-different privileges. Since the platform contains students as well as professors or admins, the platform will require a 
-control hierarchy. The level expands on boxes from the previous level which were specific pages or features and creates 
+Diagram 2 further introduces complexity into the system. The diagram now provides a user flow for a single user, and breaks down
+the features into their smaller components. The level expands on boxes from the previous level which were specific pages or features and creates 
 additional boxes for those items. This diagram also introduces the connections for the database and brings in more of a 
 technical sense into the diagram.
