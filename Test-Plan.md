@@ -6,6 +6,28 @@ come with them, like replying to chat/forums and pinning forums to save for late
 test adding and removing chat channels, as well as adding and removing users from those channels. Along with all this,
 we will be testing the backend of the application to make sure everything necessary is being saved in their respective databases.
 
+# Test Case Table
+|   | Normal/Abnormal | Blackbox/White Box | Functional/Performance | Unit/Integration|
+|---|---------------- |------------------- | ---------------------- |-----------------|
+|1  | Normal          | Blackbox           | Functional             | Integration     |
+|2  | Normal          | Blackbox           | Functional             | Integration     |
+|3  | Normal          | Blackbox           | Functional             | Integration     |
+|4  | Normal          | Blackbox           | Functional             | Integration     |
+|5  | Normal          | Blackbox           | Functional             | Integration     |
+|6  | Normal          | Whitebox           | Functional             | Unit            |
+|7  | Normal          | Whitebox           | Functional             | Integration     |
+|8  | Normal          | Blackbox           | Functional             | Integration     |
+|9  | Normal          | Both               | Functional             | Integration     |
+|10 | Normal          | Blackbox           | Functional             | Integration     |
+|11 | Normal          | Whitebox           | Functional             | Unit            |
+|12 | Normal          | Whitebox           | Functional             | Unit            |
+|13 | Normal          | Blackbox           | Functional             | Unit            |
+|14 | Normal          | Blackbox           | Functional             | Unit            |
+|15 | Normal          | Blackbox           | Functional             | Integration     |
+|16 | Normal          | Blackbox           | Functional             | Integration     |
+|17 | Normal          | Blackbox           | Functional             | Unit            |
+|18 | Normal          | Blackbox           | Functional             | Unit            |
+
 ## Test Case Descriptions
 All tests will be number with the following characteristics:
 1. test case identifier (a number or unique name)
@@ -219,24 +241,3 @@ and stores proper information
 7. Blackbox
 8. Functional
 9. Unit
-
-|   | Normal/Abnormal | Blackbox/White Box | Functional/Performance | Unit/Integration|
-|---|---------------- |------------------- | ---------------------- |-----------------|
-|1  | Normal          | Blackbox           | Functional             | Integration     |
-|2  | Normal          | Blackbox           | Functional             | Integration     |
-|3  | Normal          | Blackbox           | Functional             | Integration     |
-|4  | Normal          | Blackbox           | Functional             | Integration     |
-|5  | Normal          | Blackbox           | Functional             | Integration     |
-|6  | Normal          | Whitebox           | Functional             | Unit            |
-|7  | Normal          | Whitebox           | Functional             | Integration     |
-|8  | Normal          | Blackbox           | Functional             | Integration     |
-|9  | Normal          | Both               | Functional             | Integration     |
-|10 | Normal          | Blackbox           | Functional             | Integration     |
-|11 | Normal          | Whitebox           | Functional             | Unit            |
-|12 | Normal          | Whitebox           | Functional             | Unit            |
-|13 | Normal          | Blackbox           | Functional             | Unit            |
-|14 | Normal          | Blackbox           | Functional             | Unit            |
-|15 | Normal          | Blackbox           | Functional             | Integration     |
-|16 | Normal          | Blackbox           | Functional             | Integration     |
-|17 | Normal          | Blackbox           | Functional             | Unit            |
-|18 | Normal          | Blackbox           | Functional             | Unit            |
