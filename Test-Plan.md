@@ -23,10 +23,6 @@ we will be testing the backend of the application to make sure everything necess
 |12 | Normal          | Whitebox           | Functional             | Unit            |
 |13 | Normal          | Blackbox           | Functional             | Unit            |
 |14 | Normal          | Blackbox           | Functional             | Unit            |
-|15 | Normal          | Blackbox           | Functional             | Integration     |
-|16 | Normal          | Blackbox           | Functional             | Integration     |
-|17 | Normal          | Blackbox           | Functional             | Unit            |
-|18 | Normal          | Blackbox           | Functional             | Unit            |
 
 ## Test Case Descriptions
 All tests will be number with the following characteristics:
@@ -120,18 +116,7 @@ and stores proper information
 8. Functional
 9. Integration
 
-### 8. Forum Search Test
-1. Forum Database Search Test
-2. Test when a user searches for a posted forum, the database can pull it up.
-3. The test will run a search in the database for searched phrases and words to find ideal posts that the user is searching for.
-4. Search bar, forum database
-5. List of accurate forum posts relating to the searched phrases
-6. Normal
-7. Black Box
-8. Functional
-9. Integration
-
-### 9. Forum Post Reply Test
+### 8. Forum Post Reply Test
 1. Forum Post Reply Test
 2. To test if forum post is able to be replied to
 3. The test will check if the forum post is able to have other users create comments on the post.
@@ -142,19 +127,7 @@ and stores proper information
 8. Functional
 9. Integration
 
-### 10. Forum Post Pin/Unpin Test
-1. Forum Post Pin/Unpin Test
-2. To test forum post being pinned/unpinned to the top of the users forum page
-3. The test will check if the forum post can be pinned/unpinned to the top of the users forum page to keep track of their favorite posts
-4. (Pin Post button), pinned forums will be the first post’s they see on the forum page
-   (Unpin Post button), pinned forum will no longer be in the list of pinned forums and will be removed from the top of their forum page
-5. Add/Remove post from top of forum page
-6. Normal
-7. Black box
-8. Functional
-9. Integration
-
-### 11. Chat Backend Send Channel Message Test
+### 9. Chat Backend Send Channel Message Test
 1. Send Channel Message Test
 2. To test chat feature API endpoint that allows users to send message into current chat channel
 3. The test will use test client to send JSON message with authorization token to the endpoints of the chat backend
@@ -165,7 +138,7 @@ and stores proper information
 8. Functional
 9. Unit
 
-### 12. Chat Backend Send Private Message Test
+### 10. Chat Backend Send Private Message Test
 1. Send Private Message Test
 2. To test private chat feature API endpoint that allows users to send private message to other users
 3. The test will use test client to send JSON message with authorization token to the endpoints of the chat backend and then server will forward the message to other user.
@@ -176,7 +149,7 @@ and stores proper information
 8. Functional
 9. Unit
 
-### 13. Chat Backend Create New Channel Test
+### 11. Chat Backend Create New Channel Test
 1. Create New Channel Test
 2. To test chat feature of creating a new channel using backend API endpoints
 3. The test will use test client to send a JSON request to server for establishing a new chatroom through SocketIO
@@ -187,7 +160,7 @@ and stores proper information
 8. Functional
 9. Unit
 
-### 14. Chat Backend Add New User to Channel Test
+### 12. Chat Backend Add New User to Channel Test
 1.  Add New User to Channel Test
 2. To test chat feature of adding a new user to the channel using backend API endpoints
 3. The test will use a test client to send a JSON request to the server containing ID of user that current user wants to invite to the channel
@@ -198,29 +171,7 @@ and stores proper information
 8. Functional
 9. Unit
 
-### 15. Chat Create New
-1. Create New Chat
-2. To test if creating a new chat functionality works
-3. Will test if clicking the Create New Chat button will create a new chat with someone on the front end and in a database
-4. (Create New Chat Button)
-5. A new chat will be created and able to be interacted with
-6. Normal
-7. Blackbox
-8. Functional
-9. Integration
-
-### 16. Chat Select
-1. Chat Selection
-2. To test the functionality of the chat
-3. Will test if clicking on an individual chat will will open up the corresponding chat with that person
-4. Select chat
-5. The corresponding chat with that person will open and be displayed
-6. Normal
-7. Blackbox
-8. Functional
-9. Integration
-
-### 17. Chat Front End Send Message
+### 13. Chat Front End Send Message
 1. Chat Send Message
 2. To test if a message can be sent
 3. Will test if the sent message will be posted in the Chat
@@ -231,7 +182,7 @@ and stores proper information
 8. Functional
 9. Unit
 
-### 18. Chat Front End Receive Message
+### 14. Chat Front End Receive Message
 1. Chat Receive Message
 2. To test if a message can be received
 3. Will test if the received message will be posted in the chat
@@ -241,3 +192,8 @@ and stores proper information
 7. Blackbox
 8. Functional
 9. Unit
+
+## Test Framework
+![Test Framework](Resources/img/fastapi_docs.png "Test Framework")
+
+Beside running unit test in front end and back end, you can also test out back end functionality by using FastAPI generated docs. All requests made here are functional using a test database instead of production one.
