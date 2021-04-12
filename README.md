@@ -46,7 +46,7 @@ app and are shown in the user flow.
 
 #### [Project Poster](https://github.com/S1mS1ngh/senior-design/blob/master/Final_Materials/BearcatCirclePoster.pdf)
 
-#### Assessments (Todo)
+#### Assessments
 * [Initial Self-Assessments](https://github.com/S1mS1ngh/senior-design/tree/master/Individual_Capstone_Assessment/Initial)
     * [Nathan Berning](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Initial/Individual_Assessment_NathanBerning.md)
     * [Ryan Gruss](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Initial/IndividualCapstoneAssessment_RyanGruss.md)
@@ -58,7 +58,7 @@ app and are shown in the user flow.
     * [Simranjit Singh](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Final/Individual_Assessment_SimSingh.md)
     * [Giang Ta]
 
-#### [Summary of Hours and Justification (Todo)](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Resources/Team_Hours)
+#### [Summary of Hours and Justification](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Resources/Team_Hours)
 * [Nathan Berning]
 * [Ryan Gruss]
 * [Simranjit Singh](https://github.com/S1mS1ngh/senior-design/blob/master/Resources/Team_Hours/SimSinghHours.md)
