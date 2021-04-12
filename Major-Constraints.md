@@ -2,9 +2,8 @@
 Identifying and elaborating on several topical areas that may constrain the possible solutions for the project
 #### Outreach
  - Reaching out to enough students to be aware of app
- - Reaching out to enough sponsors to be able to create incentives
 #### Interest
- - Create enough incentives for students to be interested in app
+ - Create enough benefits for students to be interested in app
 #### Time
  - Project requirements will be affected by the limited timeline. Stretch goals are in place if expectation is too generous.
 #### Safety & Security
