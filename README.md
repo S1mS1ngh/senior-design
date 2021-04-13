@@ -54,13 +54,13 @@ app and are shown in the user flow.
     * [Giang Ta](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Initial/Individual_Assessment_GiangTa.md)
 * [Final Self-Assessments](https://github.com/S1mS1ngh/senior-design/tree/master/Individual_Capstone_Assessment/Final)
     * [Nathan Berning]
-    * [Ryan Gruss]
+    * [Ryan Gruss](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Final/Individual_Assessment_RyanGruss.md)
     * [Simranjit Singh](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Final/Individual_Assessment_SimSingh.md)
     * [Giang Ta](https://github.com/S1mS1ngh/senior-design/blob/master/Individual_Capstone_Assessment/Final/Individual_Assessment_GiangTa.md)
 
 #### [Summary of Hours and Justification](https://github.com/S1mS1ngh/senior-design-fall-2020/blob/master/Resources/Team_Hours)
 * [Nathan Berning]
-* [Ryan Gruss]
+* [Ryan Gruss](https://github.com/S1mS1ngh/senior-design/blob/master/Resources/Team_Hours/RyanGrussHours.md)
 * [Simranjit Singh](https://github.com/S1mS1ngh/senior-design/blob/master/Resources/Team_Hours/SimSinghHours.md)
 * [Giang Ta](https://github.com/S1mS1ngh/senior-design/blob/master/Resources/Team_Hours/GiangTaHours.md)
 
