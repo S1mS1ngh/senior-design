@@ -1,4 +1,4 @@
-# Ryan Team Hours (47 Tasks, 200 Hours Total)
+# Ryan Team Hours (31 Tasks, 103 Hours Total)
 
 ## Fall Semester (15 Tasks, 37 Hours Total)
 * Professional Biography (1 Hour)
@@ -17,13 +17,13 @@
 * Research and understand React (6 hours)
 * Wireframes on Figma (3 hours)
 
-## Spring Semester (15 Tasks, 56 Hours)
+## Spring Semester (16 Tasks, 66 Hours)
 
 * Meetings (11 Hours)
     * Team (8 Hours)
     * Advisor (3 Hours)
 
-
+*Backend Research (10 hours)
 * Backend development (30 hours)
     * Forum Post(10 hours)
         * Forum Create (13 hours)
