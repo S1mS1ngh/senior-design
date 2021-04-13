@@ -62,7 +62,7 @@ app and are shown in the user flow.
 * [Nathan Berning]
 * [Ryan Gruss]
 * [Simranjit Singh](https://github.com/S1mS1ngh/senior-design/blob/master/Resources/Team_Hours/SimSinghHours.md)
-* [Giang Ta]
+* [Giang Ta](https://github.com/S1mS1ngh/senior-design/blob/master/Resources/Team_Hours/GiangTaHours.md)
 
 ### Appendix
 
